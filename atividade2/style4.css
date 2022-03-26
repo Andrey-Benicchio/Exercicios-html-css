@@ -1,0 +1,115 @@
+body{
+    margin-left: 2%;
+
+}
+
+
+.div_a
+{
+    background-color: rgb(153, 70, 70);
+    border:10px solid black;
+    height: 200px;
+    width:75vw;
+    margin-top: auto;
+}
+
+.div_b
+{
+    background-color: white;
+    border:7px solid rgb(27, 27, 143);
+    color: blue;
+    font-weight: bold;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    justify-content: center;
+    align-items: center;
+    height: 20vh;
+    width: 60vw;
+    display: flex;
+    margin-top: 4%;
+    margin-left: 8%;
+}
+
+.div_c 
+{
+    width: 100%;
+    height: 5vw;
+    justify-content: center ;
+    align-items: center;
+}
+
+.div_d
+{
+    background-color: blue;
+    width: 70%;
+    height: 3vh;
+    margin: auto;
+}
+
+.div_e
+{
+    background-color: purple;
+    margin: auto;
+    width: 45%;
+    height: 3vh;
+
+
+}
+
+.div_f
+{
+background-color: green;
+margin: auto;
+width: 60%;
+height: 3vh;
+
+}
+
+.div_g
+{
+background-color: yellow;
+margin: auto;
+width: 50%;
+height: 3vh;
+
+}
+
+.div_h
+{
+
+    background-color: white;
+    margin: auto;
+    width: 100;
+    height: 10vh;
+}
+
+
+
+.cores{
+    display: flex;
+}
+
+.div_i
+{
+    background-color: rgb(250, 6, 6);
+    width: 50vw;
+    height: 3vh;
+ 
+}
+.div_j
+{
+    
+    background-color: rgb(2, 110, 101);
+    width: 40vw;
+    height: 3vh;
+    justify-content: center;
+    
+}
+
+.div_k
+{
+    background-color:rgb(5, 252, 5);
+    width: 20vw;
+    height: 3vh;
+}
+
+
