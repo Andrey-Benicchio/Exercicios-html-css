@@ -1,0 +1,38 @@
+
+
+
+.div_a{
+    background-color: orange;
+    width: 500px;
+    height: 500px ;
+   
+}
+
+.div_b{
+    background-color:green; 
+    height: 250px;
+    width: 250px;
+}
+
+.div_c{
+    color: white;
+    background-color: red;
+    font-size: 25px;
+    font-family: monospace;
+    font-weight:bold ;
+
+}
+
+.div_d{
+    width: 50%;
+    height:50vh ;
+    background-color: rgb(17, 121, 134);
+
+}
+
+.div_e{
+    width: 75vw;
+    height: 50%;
+    background-color:rgb(243, 2, 2) ;
+
+}
